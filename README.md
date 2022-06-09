@@ -7,8 +7,21 @@ That is a former way, presently to play Executioner.
 The new headway in advances permits us to play executioner utilizing our own PC likewise with next to no other player.
 How? How about we find out further
 
-# Project_Prerequisites
+# Project Prerequisites
 
 This project requires good knowledge of Python which includes defining functions and managing for/while loops. 
 The functions that we use here contain arguments that are defined in a global scope which can be further used in other functions to improve game quality. 
 It can also be used to provide different steps when required to execute upon conditions by the for and while loops.
+
+
+
+# Project File Structure
+First, let’s check the steps to build the Hangman game in Python:
+
+. Importing the random and time modules.
+. Defining functions with specific global arguments.
+. Implementing loops to execute the program.
+. Passing the function in the program to run.
+
+
+So that is basically what we will do in this Python project. Let’s start.
