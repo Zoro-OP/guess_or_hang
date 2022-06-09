@@ -18,10 +18,10 @@ It can also be used to provide different steps when required to execute upon con
 # Project File Structure
 First, let’s check the steps to build the Hangman game in Python:
 
-. Importing the random and time modules.
-. Defining functions with specific global arguments.
-. Implementing loops to execute the program.
-. Passing the function in the program to run.
+Importing the random and time modules.
+Defining functions with specific global arguments.
+Implementing loops to execute the program.
+Passing the function in the program to run.
 
 
 So that is basically what we will do in this Python project. Let’s start.
